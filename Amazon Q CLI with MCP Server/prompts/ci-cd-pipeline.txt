@@ -1,0 +1,6 @@
+Create an AWS architecture diagram in PNG format using AWS icons showing:
+- GitHub source
+- CodePipeline → CodeBuild → Lambda
+- S3 for assets
+- CloudWatch monitoring
+Save as PNG with clear layout and labels.
