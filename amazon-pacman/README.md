@@ -10,6 +10,8 @@ This implementation features intelligent ghost AI with different behaviors, powe
 
 amazon-pacman/
 
+```bash
+
 ├── main.py          - Game entry point, main loop, and game state management
 
 ├── player.py        - Pac-Man player class with movement and animation logic
