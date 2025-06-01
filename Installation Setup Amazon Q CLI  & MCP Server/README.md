@@ -8,7 +8,7 @@ Unlock the power of Amazon Q for your coding workflow! This guide provides step-
 
 Amazon Q is an AI-powered coding assistant that helps you write, debug, and understand code faster. It integrates seamlessly into your terminal and VS Code, enhancing your productivity with powerful AI features.
 
-![image alt])(https://www.google.com/imgres?q=amazon%20q%20login%20terminal&imgurl=https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2F7719a1c782a1ba91c031a682a0a2f8658209adbf%2F2025%2F05%2F20%2Fcli-persistence.png&imgrefurl=https%3A%2F%2Fnoise.getoto.net%2Ftag%2Fdevelopment%2F&docid=P-O1ZvIA4rCbNM&tbnid=NAikx6kzH4wncM&vet=12ahUKEwjqkJifkNGNAxUmyDgGHY6qAcMQM3oECBwQAA..i&w=1138&h=640&hcb=2&itg=1&ved=2ahUKEwjqkJifkNGNAxUmyDgGHY6qAcMQM3oECBwQAA)
+![image alt](https://www.google.com/imgres?q=amazon%20q%20login%20terminal&imgurl=https%3A%2F%2Fd2908q01vomqb2.cloudfront.net%2F7719a1c782a1ba91c031a682a0a2f8658209adbf%2F2025%2F05%2F20%2Fcli-persistence.png&imgrefurl=https%3A%2F%2Fnoise.getoto.net%2Ftag%2Fdevelopment%2F&docid=P-O1ZvIA4rCbNM&tbnid=NAikx6kzH4wncM&vet=12ahUKEwjqkJifkNGNAxUmyDgGHY6qAcMQM3oECBwQAA..i&w=1138&h=640&hcb=2&itg=1&ved=2ahUKEwjqkJifkNGNAxUmyDgGHY6qAcMQM3oECBwQAA)
 
 ---
 
