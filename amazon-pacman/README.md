@@ -4,16 +4,25 @@ A neon-styled, Amazon-branded Pac-Man clone built with Pygame. It is a Python-ba
 
 This implementation features intelligent ghost AI with different behaviors, power pellets that temporarily make ghosts vulnerable, and a scoring system. The game includes modern enhancements like smooth animations, pixel-style wall effects, and customizable ghost behaviors while maintaining the core Pac-Man gameplay mechanics that made the original a classic.
 
+![image alt](https://github.com/KareshmaAnanth/Amazon-Q/blob/51f17ff440e7ac1b69c55323a6191193563bb812/amazon-pacman/Pac%20man%20Game.png)
+
 ## Project Structure
 
 amazon-pacman/
-├── main.py         # Game entry point, main loop, and game state management
-├── player.py       # Pac-Man player class with movement and animation logic
-├── ghost.py        # Ghost AI implementation with different behaviors
-├── maze.py         # Maze generation and rendering with AMAZON letters
-├── utils.py        # Shared constants, utilities, and helper functions
-├── test_game.py    # Unit tests for game components
-└── README.md       # Project documentation
+
+├── main.py          - Game entry point, main loop, and game state management
+
+├── player.py        - Pac-Man player class with movement and animation logic
+
+├── ghost.py         - Ghost AI implementation with different behaviors
+
+├── maze.py          - Maze generation and rendering with AMAZON letters
+
+├── utils.py         - Shared constants, utilities, and helper functions
+
+├── test_game.py     - Unit tests for game components
+
+└── README.md        - Project documentation
 ```
 
 ## Installation
