@@ -6,6 +6,8 @@ This implementation features intelligent ghost AI with different behaviors, powe
 
 ![image alt](https://github.com/KareshmaAnanth/Amazon-Q/blob/51f17ff440e7ac1b69c55323a6191193563bb812/amazon-pacman/Pac%20man%20Game.png)
 
+[Amazon Pac-Man Game Video](https://github.com/KareshmaAnanth/Amazon-Q/tree/cf9162bdb8deba394f5809bbf215c095515dc006/amazon-pacman)
+
 ## Project Structure
 
 amazon-pacman/
