@@ -1,0 +1,27 @@
+Create a Flask web application called tamil_quotes_app.py that serves as a platform for sharing and discovering Tamil quotes. The application should:
+
+1. Use Flask as the web framework with SQLAlchemy for database operations
+2. Implement user authentication with Flask-Login including registration, login, and logout functionality
+3. Store Tamil quotes with the following information:
+   - The quote content in Tamil
+   - English translation
+   - Source/attribution
+   - Category
+   - Date added
+   - User who added it
+   - Number of likes
+
+4. Include the following features:
+   - Homepage displaying all quotes
+   - Random quote generator
+   - Ability for logged-in users to add new quotes
+   - Like functionality for quotes
+   - Filter quotes by category
+   - View quotes by specific users
+   - User profile pages
+
+5. Include sample data with at least 3 traditional Tamil quotes with their translations
+6. Implement proper password hashing for security
+7. Include database initialization code that creates an admin user and adds sample quotes on first run
+
+The application should be well-structured, include appropriate error handling, and follow Flask best practices.
