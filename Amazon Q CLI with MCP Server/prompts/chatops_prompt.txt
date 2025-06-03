@@ -1,0 +1,19 @@
+Create a Python script using the diagrams library that generates a visual architecture diagram for a DevOps ChatOps bot. The architecture should include:
+
+1. Users interacting with the bot through Slack and Microsoft Teams
+2. An API Gateway for external communication
+3. Amazon Lex for intent recognition
+4. EventBridge for event routing
+5. Lambda functions for command processing and response formatting
+6. Amazon Bedrock for AI/ML capabilities
+7. CloudWatch for monitoring and metrics
+8. SNS for alerts and notifications
+9. S3 for storing conversation logs
+
+The diagram should show the flow of information between these components, including:
+- How user requests flow from chat platforms through the system
+- How responses are generated and returned
+- How monitoring and alerting works
+- How conversation logs are stored
+
+Name the output file "devops_chatops_architecture.png" and include appropriate clusters to group related components.
