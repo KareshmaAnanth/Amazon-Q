@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Amazon Pacman</title>
+</head>
+<body>
+
+<canvas id="game" width="600" height="600"></canvas>
+
+<script>
+async function getState(){
+ const res = await fetch("/state")
+ const data = await res.json()
+ console.log(data)
+}
+
+document.addEventListener("keydown", async (e)=>{
+ await fetch("/move",{
+  method:"POST",
+  headers:{'Content-Type':'application/json'},
+  body:JSON.stringify({direction:e.key})
+ })
+ getState()
+})
+
+getState()
+</script>
+
+</body>
+</html>
